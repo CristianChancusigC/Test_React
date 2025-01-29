@@ -17,5 +17,5 @@ section {
 section img {
   max-width: 320px;
   height: auto;
-  border-radius: 50%;
+  border-radius: 10%;
 }
